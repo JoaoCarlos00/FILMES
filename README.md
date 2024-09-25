@@ -2,6 +2,10 @@
 
 Criei a classe filme e determinei atributos e condições para ser valido 
 
+## 🚀 Enunciados
+
+Escreva um método que mostra se um número é positivo ou negativo. Considere o zero positivo.
+
 ### 📋 Código
 Crie uma classe Filme que contém os atributos título, duração em minutos e gênero. Essa classe deve encapsular e validar todos os atributos.
 
